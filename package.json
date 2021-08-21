@@ -1,0 +1,24 @@
+{
+  "name": "jwtauthenticationskeleton",
+  "version": "1.0.0",
+  "description": "JWT based user registration and authentication system",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarthak281096/JWTAuthenticationSkeleton.git"
+  },
+  "author": "Sarthak Goel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarthak281096/JWTAuthenticationSkeleton/issues"
+  },
+  "homepage": "https://github.com/sarthak281096/JWTAuthenticationSkeleton#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
